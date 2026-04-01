@@ -4,16 +4,9 @@
   "spider": "https://gh-proxy.com/https://github.com/tianze889/dszb/raw/refs/heads/main/jar/bhxq.jar",
   "warningText": "📢软件由资源宝藏库制作维护",
   "sites": [
-    {
-      "key": "豆瓣2",
-      "name": "📢资源宝藏库制作维护-全网高清影视免费看！",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
        {
       "key": "潮 汕",
-      "name": "潮剧戏曲",
+      "name": "潮剧戏曲-资源宝藏库开发制作",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -23,7 +16,7 @@
     },
     {
       "key": "戏 曲",
-      "name": "资源宝藏库开发制作",
+      "name": "戏曲合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
