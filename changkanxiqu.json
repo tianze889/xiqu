@@ -21,7 +21,6 @@
       "filterable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/dszb/refs/heads/main/json/Blixs.json"
     },
-
     {
       "key": "演唱会",
       "name": "演唱会唱",
@@ -631,5 +630,4 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "http://74.120.175.78/JK/api/bg/"
 }
