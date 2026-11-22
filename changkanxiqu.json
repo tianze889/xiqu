@@ -1,7 +1,7 @@
 {
   "wallpaper": "https://xn--9ff9-rp5imh.v.nxog.top/m/t/",
   "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/xiqu/refs/heads/main/jar/bhxq1.jar",
+  "spider": "https://cdn.jsdmirror.com/gh/tianze889/xiqu@main/jar/ckxq.js",
   "warningText": "欢迎使用梨园行戏曲离休干部定制版，向老领导致敬！",
   "sites": [
     {
@@ -12,7 +12,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/dszb/refs/heads/main/json/Blixq.json"
+      "ext": "https://cdn.jsdmirror.com/gh/tianze889/dszb@main/json/Blixq.json"
     },
     {
       "key": "相声小品",
@@ -22,7 +22,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/dszb/refs/heads/main/json/Blixs.json"
+      "ext": "https://cdn.jsdmirror.com/gh/tianze889/dszb@main/json/Blixs.json"
     },
     {
       "key": "演唱会",
@@ -32,7 +32,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/dszb/refs/heads/main/json/%E6%BC%94%E5%94%B1%E4%BC%9A.json"
+      "ext": "https://cdn.jsdmirror.com/gh/tianze889/dszb@main/json/%E6%BC%94%E5%94%B1%E4%BC%9A.json"
     },
     {
       "key": "csp_Bili短剧",
@@ -42,7 +42,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/dszb/refs/heads/main/json/%E7%9F%AD%E5%89%A7.json"
+      "ext": "https://cdn.jsdmirror.com/gh/tianze889/dszb@main/json/%E7%9F%AD%E5%89%A7.json"
     }
   ],
    "parses": [
